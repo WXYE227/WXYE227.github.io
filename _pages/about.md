@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuer Chen"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,6 +11,7 @@ I am a Ph.D. student of the [School of Mathematical Sciences, Fudan University](
 + Numerical linear algrebra: large-scale eigenvalue problem and linear equation,
 + Numerical approxiamtion: rational approximation and polynominal approximation,
 + Circuit simulation: transient simulation, signal integrity analysis,
+
 and also the numerical methods of nonlinear equation, mathematical modeling.
 
 I am very fortunate to be advised by Young researcher [Yingzhou Li](https://yingzhouli.com), [School of Mathematical Sciences, Fudan University](https://math.fudan.edu.cn).
