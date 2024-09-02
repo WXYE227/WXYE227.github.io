@@ -77,10 +77,10 @@ author:
 publication_category:
   books:
     title: 'Books'
-  Journal:
-    title: 'Journal'
-  Preprint:
-    title: 'Preprint'    
+  Journals:
+    title: 'Journals'
+  Preprints:
+    title: 'Preprints'    
   conferences:
     title: 'Conference Papers'
 
