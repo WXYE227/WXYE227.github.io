@@ -15,7 +15,7 @@ I am a Ph.D. student of the [School of Mathematical Sciences, Fudan University](
 
 and also the numerical methods of nonlinear equation, mathematical modeling.
 
-I am very fortunate to be advised by Young researcher [Yingzhou Li](https://yingzhouli.com), [School of Mathematical Sciences, Fudan University](https://math.fudan.edu.cn).
+I am very fortunate to be advised by Young researcher [Yingzhou Li](https://yingzhouli.com), School of Mathematical Sciences, Fudan University.
 
 You can find my CV here: [Yuer Chen's CV-English](../files/cv-English.pdf) and [Yuer Chen's CV-Chinese](../files/cv-Chinese.pdf).
 
